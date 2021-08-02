@@ -7,9 +7,8 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Sugaya-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Sugaya-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-plain.svg">
+  <img align="center" alt="Sugaya-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="Sugaya-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Sugaya-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
   ##
